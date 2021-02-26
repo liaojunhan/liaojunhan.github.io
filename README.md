@@ -26,24 +26,17 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![圖片的名字](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJd0_o4GApPFBJeRX_inTqL5STrEKfyrMUKw&usqp=CAU)
+
+
+
+
+```C
+
+#include <stdio.h>
+int main()
+{
+  printf("Hello World");
+}
+
+```
